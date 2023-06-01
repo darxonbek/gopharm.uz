@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.div3{
+    margin-right: 100px;
+}
+.div3>a{
+    margin-left: 20px;
+}
+.div2{
+    margin-left: 100px;
+}
+
+.div2>a{
+    text-decoration: none;
+    margin-left: 25px;
+}
+.div3>a{
+    text-decoration: none;
+}
+.div1{
+    border-bottom: 2px solid black;
+}
+#a1{
+   margin-left: 20px;
+   color: black;
+   text-decoration: none;
+}
+.navdiv4{
+    display: inline-flex;
+    align-items: center;
+}
+.navdiv2{
+    display: inline-flex;
+    align-items: center;
+}
